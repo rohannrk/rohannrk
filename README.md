@@ -1,6 +1,7 @@
 # Hi, I'm Rohan Kambli 👋
 
-![](public/desk.gif)
+![](https://cdn.discordapp.com/attachments/931938342944256030/1153040307353550928/Debbie_Balboa.gif)
+
 ###  About me:
 Hello! I'm Rohan, a final-year CS student from India, a software developer and Product designer who likes to design and build projects that make difference.
 I usually work on **Android development**, **Web development**, and **Solana blockchain**.
