@@ -1,5 +1,6 @@
 # Hi, I'm Rohan Kambli 👋
 
+![](public/desk.gif)
 ###  About me:
 Hello! I'm Rohan, a final-year CS student from India, a software developer and Product designer who likes to design and build projects that make difference.
 I usually work on **Android development**, **Web development**, and **Solana blockchain**.
