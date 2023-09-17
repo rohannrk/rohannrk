@@ -36,15 +36,11 @@ Discord-clone | Next JS, TS, SQL | [Repo](https://github.com/rohannrk/discord-cl
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Saganize/.github](https://github.com/Saganize/.github)<br>
-2. ⭐ Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)<br>
-3. ⭐ Starred [bumptech/glide](https://github.com/bumptech/glide)<br>
-4. ⬆️ Pushed 1 commit(s) to [aaishikasb/gcf-blr](https://github.com/aaishikasb/gcf-blr)<br>
-5. ⭐ Starred [anamansari062/GM](https://github.com/anamansari062/GM)<br>
+
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 17th, 2023, 2:37:19 AM (GMT)
+
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
