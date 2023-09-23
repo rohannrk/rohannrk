@@ -38,15 +38,15 @@ Discord-clone | Next JS, TS, SQL | [Repo](https://github.com/rohannrk/discord-cl
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [rohannrk/discord-clone](https://github.com/rohannrk/discord-clone)<br>
+1. Pushed 1 commit(s) to [rohannrk/rohannrk](https://github.com/rohannrk/rohannrk)<br>
 2. Pushed 1 commit(s) to [rohannrk/discord-clone](https://github.com/rohannrk/discord-clone)<br>
-3. Starred [harness/gitness](https://github.com/harness/gitness)<br>
-4. Pushed 1 commit(s) to [rohannrk/rohannrk](https://github.com/rohannrk/rohannrk)<br>
-5. Created new repository [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
+3. Pushed 1 commit(s) to [rohannrk/discord-clone](https://github.com/rohannrk/discord-clone)<br>
+4. Pushed 1 commit(s) to [rohannrk/discord-clone](https://github.com/rohannrk/discord-clone)<br>
+5. Starred [harness/gitness](https://github.com/harness/gitness)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 23rd, 2023, 5:12:19 AM
+Last Updated: Saturday, September 23rd, 2023, 5:36:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
