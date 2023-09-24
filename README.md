@@ -37,15 +37,15 @@ Discord-clone | Next JS, TS, SQL | [Repo](https://github.com/rohannrk/discord-cl
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [rohannrk/Linkcollect-Frontend](https://github.com/rohannrk/Linkcollect-Frontend)<br>
-2. Starred [frontendfyi/rebuilding-linear.app](https://github.com/frontendfyi/rebuilding-linear.app)<br>
-3. Pushed 38 commit(s) to [rohannrk/Linkcollect-Frontend](https://github.com/rohannrk/Linkcollect-Frontend)<br>
-4. Pushed 1 commit(s) to [rohannrk/discord-clone](https://github.com/rohannrk/discord-clone)<br>
+1. Pushed 1 commit(s) to [rohannrk/rohannrk](https://github.com/rohannrk/rohannrk)<br>
+2. Pushed 1 commit(s) to [rohannrk/Linkcollect-Frontend](https://github.com/rohannrk/Linkcollect-Frontend)<br>
+3. Starred [frontendfyi/rebuilding-linear.app](https://github.com/frontendfyi/rebuilding-linear.app)<br>
+4. Pushed 38 commit(s) to [rohannrk/Linkcollect-Frontend](https://github.com/rohannrk/Linkcollect-Frontend)<br>
 5. Pushed 1 commit(s) to [rohannrk/discord-clone](https://github.com/rohannrk/discord-clone)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 24th, 2023, 5:36:37 PM
+Last Updated: Sunday, September 24th, 2023, 6:16:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
