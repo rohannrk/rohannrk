@@ -28,7 +28,7 @@ Web Site | Front End | Source Code | Live Demo
 Dev Portfolio | Next.js, TS, HTML, CSS | [Repo](https://github.com/rohannrk/dev-site) | [Link](https://devr-site.vercel.app/)
 Linkcollect | Next.js, JS, Tailwind CSS, HTML | [Repo](https://github.com/rohannrk/Linkcollect-Frontend) | [Link](https://linkcollect.io//)
 Airbnb-clone | Next.js, TS, Tailwind CSS, HTML | [Repo](https://github.com/rohannrk/airbnb) | [Link](https://propertyrental-a9edyimfl-rohannrk.vercel.app/)
-Discord-clone | Next JS, TS, SQL | [Repo](https://github.com/rohannrk/discord-clone)| soon
+Discord-clone | Next JS, TS, SQL | [Repo](https://github.com/rohannrk/discord-clone)| [Link](https://propertyrental-a9edyimfl-rohannrk.vercel.app/)
 </details>
 
 
