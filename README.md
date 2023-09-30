@@ -37,15 +37,15 @@ Discord-clone | Next JS, TS, SQL | [Repo](https://github.com/rohannrk/discord-cl
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [rohannrk/evently](https://github.com/rohannrk/evently)<br>
-2. Pushed 1 commit(s) to [rohannrk/Evently](https://github.com/rohannrk/Evently)<br>
-3. Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)<br>
-4. Starred [nainglinnkhant/scribble](https://github.com/nainglinnkhant/scribble)<br>
-5. Pushed 1 commit(s) to [rohannrk/glide](https://github.com/rohannrk/glide)<br>
+1. Pushed 1 commit(s) to [rohannrk/glide](https://github.com/rohannrk/glide)<br>
+2. Pushed 1 commit(s) to [rohannrk/evently](https://github.com/rohannrk/evently)<br>
+3. Pushed 1 commit(s) to [rohannrk/Evently](https://github.com/rohannrk/Evently)<br>
+4. Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)<br>
+5. Starred [nainglinnkhant/scribble](https://github.com/nainglinnkhant/scribble)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 30th, 2023, 7:11:56 AM
+Last Updated: Saturday, September 30th, 2023, 7:36:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
