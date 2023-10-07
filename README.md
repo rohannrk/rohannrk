@@ -37,15 +37,15 @@ Discord-clone | Next JS, TS, SQL | [Repo](https://github.com/rohannrk/discord-cl
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)<br>
-2. Pushed 1 commit(s) to [rohannrk/quill](https://github.com/rohannrk/quill)<br>
-3. Starred [Hiperultimate/trpc-turborepo-next-tailwind-prisma-openapi-swaggerui-template](https://github.com/Hiperultimate/trpc-turborepo-next-tailwind-prisma-openapi-swaggerui-template)<br>
-4. Pushed 1 commit(s) to [rohannrk/rohannrk](https://github.com/rohannrk/rohannrk)<br>
-5. Pushed 1 commit(s) to [rohannrk/dev-site](https://github.com/rohannrk/dev-site)<br>
+1. Starred [homanp/superagent](https://github.com/homanp/superagent)<br>
+2. Starred [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)<br>
+3. Pushed 1 commit(s) to [rohannrk/quill](https://github.com/rohannrk/quill)<br>
+4. Starred [Hiperultimate/trpc-turborepo-next-tailwind-prisma-openapi-swaggerui-template](https://github.com/Hiperultimate/trpc-turborepo-next-tailwind-prisma-openapi-swaggerui-template)<br>
+5. Pushed 1 commit(s) to [rohannrk/rohannrk](https://github.com/rohannrk/rohannrk)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 7th, 2023, 4:36:30 AM
+Last Updated: Saturday, October 7th, 2023, 5:12:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
