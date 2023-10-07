@@ -4,7 +4,7 @@
 
 ###  About me:
 Hello! I'm Rohan, a final-year CS student from India, a software developer and Product designer who likes to design and build projects that make a difference.
-I usually work on **Android development**, **Web development**, and **Solana blockchain**.
+I usually work on **Product designs** and **Web development**.
 
 
 ### Skills:
