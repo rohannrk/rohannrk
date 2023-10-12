@@ -37,15 +37,15 @@ Discord-clone | Next JS, TS, SQL | [Repo](https://github.com/rohannrk/discord-cl
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 2 commit(s) to [rohannrk/quill](https://github.com/rohannrk/quill)<br>
-2. Pushed 1 commit(s) to [rohannrk/quill](https://github.com/rohannrk/quill)<br>
-3. Pushed 1 commit(s) to [rohannrk/rohannrk](https://github.com/rohannrk/rohannrk)<br>
-4. Starred [homanp/superagent](https://github.com/homanp/superagent)<br>
-5. Starred [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)<br>
+1. Pushed 3 commit(s) to [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
+2. Merged PR [#1](https://github.com/rohannrk/design-site/pull/1) in [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
+3. Opened PR [#1](https://github.com/rohannrk/design-site/pull/1) in [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
+4. Pushed 3 commit(s) to [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
+5. Pushed 2 commit(s) to [rohannrk/quill](https://github.com/rohannrk/quill)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 12th, 2023, 4:39:55 PM
+Last Updated: Thursday, October 12th, 2023, 5:13:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
