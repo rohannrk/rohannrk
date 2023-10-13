@@ -37,15 +37,15 @@ Discord-clone | Next JS, TS, SQL | [Repo](https://github.com/rohannrk/discord-cl
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 3 commit(s) to [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
-2. Merged PR [#1](https://github.com/rohannrk/design-site/pull/1) in [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
-3. Opened PR [#1](https://github.com/rohannrk/design-site/pull/1) in [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
-4. Pushed 3 commit(s) to [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
-5. Pushed 2 commit(s) to [rohannrk/quill](https://github.com/rohannrk/quill)<br>
+1. Pushed 2 commit(s) to [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
+2. Pushed 3 commit(s) to [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
+3. Merged PR [#1](https://github.com/rohannrk/design-site/pull/1) in [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
+4. Opened PR [#1](https://github.com/rohannrk/design-site/pull/1) in [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
+5. Pushed 3 commit(s) to [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 13th, 2023, 2:39:14 AM
+Last Updated: Friday, October 13th, 2023, 3:15:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
