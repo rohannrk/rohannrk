@@ -37,15 +37,15 @@ Discord-clone | Next JS, TS, SQL | [Repo](https://github.com/rohannrk/discord-cl
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. Forked [rohannrk/event-management](https://github.com/rohannrk/event-management) from [Rohit-RA-2020/Task-Management](https://github.com/Rohit-RA-2020/Task-Management)<br>
-2. Pushed 1 commit(s) to [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
-3. Pushed 1 commit(s) to [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
-4. Pushed 2 commit(s) to [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
-5. Pushed 3 commit(s) to [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
+1. Starred [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. Starred [processing/p5.js](https://github.com/processing/p5.js)<br>
+3. Forked [rohannrk/event-management](https://github.com/rohannrk/event-management) from [Rohit-RA-2020/Task-Management](https://github.com/Rohit-RA-2020/Task-Management)<br>
+4. Pushed 1 commit(s) to [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
+5. Pushed 1 commit(s) to [rohannrk/design-site](https://github.com/rohannrk/design-site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 14th, 2023, 4:38:12 AM
+Last Updated: Thursday, December 14th, 2023, 5:14:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
