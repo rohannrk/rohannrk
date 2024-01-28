@@ -37,13 +37,14 @@ Discord-clone | Next JS, TS, SQL | [Repo](https://github.com/rohannrk/discord-cl
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-2. Starred [processing/p5.js](https://github.com/processing/p5.js)<br>
-3. Forked [rohannrk/event-management](https://github.com/rohannrk/event-management) from [Rohit-RA-2020/Task-Management](https://github.com/Rohit-RA-2020/Task-Management)<br>
+1. Created new repository [rohannrk/event-platform](https://github.com/rohannrk/event-platform)<br>
+2. Starred [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. Starred [processing/p5.js](https://github.com/processing/p5.js)<br>
+4. Forked [rohannrk/event-management](https://github.com/rohannrk/event-management) from [Rohit-RA-2020/Task-Management](https://github.com/Rohit-RA-2020/Task-Management)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 28th, 2024, 5:36:26 PM
+Last Updated: Sunday, January 28th, 2024, 6:15:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
