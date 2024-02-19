@@ -37,15 +37,15 @@ Discord-clone | Next JS, TS, SQL | [Repo](https://github.com/rohannrk/discord-cl
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [rohannrk/webdesign-js](https://github.com/rohannrk/webdesign-js)<br>
+1. Starred [dabit3/xp-mobile-account-abstraction](https://github.com/dabit3/xp-mobile-account-abstraction)<br>
 2. Pushed 1 commit(s) to [rohannrk/webdesign-js](https://github.com/rohannrk/webdesign-js)<br>
 3. Pushed 1 commit(s) to [rohannrk/webdesign-js](https://github.com/rohannrk/webdesign-js)<br>
 4. Pushed 1 commit(s) to [rohannrk/webdesign-js](https://github.com/rohannrk/webdesign-js)<br>
-5. Created new repository [rohannrk/webdesign-js](https://github.com/rohannrk/webdesign-js)<br>
+5. Pushed 1 commit(s) to [rohannrk/webdesign-js](https://github.com/rohannrk/webdesign-js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 19th, 2024, 7:11:55 PM
+Last Updated: Monday, February 19th, 2024, 7:36:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
