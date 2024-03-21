@@ -37,15 +37,15 @@ Discord-clone | Next JS, TS, SQL | [Repo](https://github.com/rohannrk/discord-cl
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. Starred [realvjy/svg-to-code-figma](https://github.com/realvjy/svg-to-code-figma)<br>
-2. Pushed 1 commit(s) to [rohannrk/event-platform](https://github.com/rohannrk/event-platform)<br>
-3. Became collaborator on [rohannrk/event-platform](https://github.com/rohannrk/event-platform)<br>
-4. Starred [dabit3/xp-mobile-account-abstraction](https://github.com/dabit3/xp-mobile-account-abstraction)<br>
-5. Pushed 1 commit(s) to [rohannrk/webdesign-js](https://github.com/rohannrk/webdesign-js)<br>
+1. Pushed 1 commit(s) to [rohannrk/event-platform](https://github.com/rohannrk/event-platform)<br>
+2. Starred [realvjy/svg-to-code-figma](https://github.com/realvjy/svg-to-code-figma)<br>
+3. Pushed 1 commit(s) to [rohannrk/event-platform](https://github.com/rohannrk/event-platform)<br>
+4. Became collaborator on [rohannrk/event-platform](https://github.com/rohannrk/event-platform)<br>
+5. Starred [dabit3/xp-mobile-account-abstraction](https://github.com/dabit3/xp-mobile-account-abstraction)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 21st, 2024, 6:36:21 PM
+Last Updated: Thursday, March 21st, 2024, 7:13:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <h3 align="left">Support:</h3>
